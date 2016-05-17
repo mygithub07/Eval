@@ -20,3 +20,5 @@ This means that the name 'james' appears in *list.txt* on those lines.
 We are looking for the most efficient solution taking into account I/O, CPU and Memory usage as it is possible you solution may be needed to run against much larger data set, specifically one that may not fit completely in memory.  
 
 You may state your assumptions and feel free to add additional justification as well. Please be prepared to discuss it when you come on site.
+
+You script should be delivered in the form of a gist.
