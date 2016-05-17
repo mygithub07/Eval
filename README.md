@@ -9,7 +9,7 @@ Write a program that takes these two files as input:
 * [names.txt](https://raw.githubusercontent.com/PerformLine/Eval/master/names.txt) - Contains a list of names, one name per line.
 * [list.txt](https://raw.githubusercontent.com/PerformLine/Eval/master/list.txt) - Contains a list of words, some are names, one per line.
 
-Then prints out the **line numbers** and **instance** in *list.txt* where names from *names.txt* are found.
+Then prints (to stdout) the **line numbers** and **instance** in *list.txt* where names from *names.txt* are found.
 
 For example, if *list.txt* contains three instances of the name 'james' it would output something like
 
