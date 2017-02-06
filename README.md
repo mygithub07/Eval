@@ -4,7 +4,9 @@ This task should take no longer than 2 hours to complete.
 
 Please complete this task in the programming language of your choice.
 
-Fork this repository and commit your work to the fork.  You can make the fork private, but add `PerformLine` as a collaborator on Github,
+You can submit your work in one of two forms:
+* Fork this repository and commit your work to the fork, then give us the url to your fork in Github and the url to your passing tests in TravisCI.
+* Of, if you're sensitive to having your work viewable on Github, you may submit a zip file of your local clone of this repo.  The repo must contain configuration to make its' test work with TravisCI.
 
 Write a program that takes these two files as input:
 
@@ -23,8 +25,4 @@ We are looking for the most efficient solution taking into account I/O, CPU and 
 
 You may state your assumptions and feel free to add additional justification as well. Please be prepared to discuss it when you come on site.
 
-Lastly, your code should include meaningful tests.  Use the free TravisCI service to execute tests automatically.
-
-Upon completion return:
-* THe url to your fork in Github.
-* The url to your passing tests in TravisCI.
+Lastly, your code should include meaningful tests.  Make sure your tests complete and your repo is instrumented to use the free TravisCI service to execute tests automatically.
