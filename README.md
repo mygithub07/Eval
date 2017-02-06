@@ -4,6 +4,8 @@ This task should take no longer than 2 hours to complete.
 
 Please complete this task in the programming language of your choice.
 
+Fork this repository and commit your work to the fork.  You can make the fork private, but add `PerformLine` as a collaborator on Github,
+
 Write a program that takes these two files as input:
 
 * [names.txt](https://raw.githubusercontent.com/PerformLine/Eval/master/names.txt) - Contains a list of names, one name per line.
@@ -21,4 +23,8 @@ We are looking for the most efficient solution taking into account I/O, CPU and 
 
 You may state your assumptions and feel free to add additional justification as well. Please be prepared to discuss it when you come on site.
 
-You script should be delivered in the form of a gist.
+Lastly, your code should include meaningful tests.  Use the free TravisCI service to execute tests automatically.
+
+Upon completion return:
+* THe url to your fork in Github.
+* The url to your passing tests in TravisCI.
