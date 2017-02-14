@@ -1,0 +1,12 @@
+{
+  "name": "learn-travis-YOURNAME",
+  "description": "Simple Travis-CI ",
+  "author": "ac",
+  "version": "0.0.1",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "devDependencies": {
+    "mocha": "^3.2.0"
+  }
+}
